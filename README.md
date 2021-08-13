@@ -9,7 +9,11 @@ Carbonado is a complete icon replacement for Inkscape 0.92.x which was largely i
 
 ## Release information
 
+- 08/12/2021 - DISCONTINUED! This is being archived as a new branch `Grey(0.9x)`
 - 01/01/2018 - Initial release
+
+
+For newer Inkscape releases, please reference the main repo.
 
 ## Motivation & Design
 
